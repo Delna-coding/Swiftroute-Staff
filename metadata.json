@@ -1,0 +1,5 @@
+{
+  "name": "SwiftRoute - Kerala Bus Tracker",
+  "description": "A real-time bus tracking and passenger prediction application for the Kasaragod-Kottayam route, featuring automated passenger management and AI-driven occupancy forecasting.",
+  "requestFramePermissions": []
+}
